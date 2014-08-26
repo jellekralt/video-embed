@@ -2,11 +2,11 @@
 var template = function(type, url) {
     switch(type) {
         case 'youtube':
-            return '<iframe src="'+url+'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
+            return '<iframe src="'+url+'" frameborder="0" allowfullscreen></iframe>';
         break;
 
         case 'vimeo':
-            return '<iframe src="'+url+'" frameborder="0" allowfullscreen></iframe>';
+            return '<iframe src="'+url+'" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>';
         break;
     }
 }
