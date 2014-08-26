@@ -3,8 +3,8 @@
   "version": "0.1.0",
   "description": "Generate video embed code for services like YouTube and Vimeo",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "script": {
+    "test": "mocha spec"
   },
   "repository": {
     "type": "git",
