@@ -1,4 +1,4 @@
-video-embed [![Build Status](https://travis-ci.org/jellekralt/video-embed.svg?branch=v0.1.0)](https://travis-ci.org/jellekralt/video-embed)
+video-embed [![Build Status](https://travis-ci.org/jellekralt/video-embed.svg?branch=v0.2.0)](https://travis-ci.org/jellekralt/video-embed)
 ===========
 
 This module generates video embed code for services like YouTube, Vimeo and Vevo.

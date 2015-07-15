@@ -1,7 +1,7 @@
 {
   "name": "video-embed",
-  "version": "0.1.0",
-  "description": "Generate video embed code for services like YouTube and Vimeo",
+  "version": "0.2.0",
+  "description": "Generate video embed code for YouTube, Vimeo and Vevo",
   "main": "index.js",
   "script": {
     "test": "mocha spec"
